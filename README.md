@@ -1,7 +1,7 @@
 # 🌊 Offshore Wind Energy System Design for Oil & Gas Platforms
 
 This repository contains the full Python code and data used in our IEEE Access publication:
-📄 **"A Unified Framework for Wind Energy System Design"**  
+📄 **"Zero-Emission Unified Wind Energy System Design for Offshore Oil and Gas Platforms: A Robust Framework for Managing Uncertainty"**  
 📝 *IEEE Access*, November 2024  
 🔗 [Read the Article](https://doi.org/10.1109/ACCESS.2024.3500356)
 
